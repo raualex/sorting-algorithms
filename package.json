@@ -1,0 +1,19 @@
+{
+  "name": "@raualex/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "sorting-algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raualex/sorting-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raualex/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/raualex/sorting-algorithms#readme"
+}
